@@ -5,7 +5,7 @@ just a resource pack for me and my buds to use on our server(s).
 feel free to use it too... if you wish.
 
 # Credits
-[zirppo](zirppo.carrd.co), [Bluestrike](bluestrike.carrd.co), BamIsMyName
+[zirppo](zirppo.carrd.co), [Bluestrike](bluestrike.carrd.co), BamIsMyName, Mr. Green, beomous, lemonrice, Apperdog, Fasttastic, [6thDemon](6thdemon.carrd.co), Ronnie
 
 # How to install, from master
 1) big green code button
