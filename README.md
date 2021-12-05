@@ -1,5 +1,5 @@
 # BreastCraft
-minecraft resource pack just for fun :)
+a java resource pack :)
 
 just a resource pack for me and my buds to use on our server(s).
 feel free to use it too... if you wish.
