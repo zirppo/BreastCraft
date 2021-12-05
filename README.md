@@ -4,9 +4,6 @@ a java resource pack :)
 just a pack for me and my buds to use on our server(s).
 feel free to use it too... if you wish.
 
-# Credits
-[zirppo](zirppo.carrd.co), [Bluestrike](bluestrike.carrd.co), BamIsMyName, [beomous](beomous.carrd.co), Mr. Green, lemonrice, Apperdog, Fasttastic, [6thDemon](6thdemon.carrd.co), Ronnie
-
 # How to install, from master
 1) big green code button
 2) download zip
@@ -18,3 +15,6 @@ feel free to use it too... if you wish.
 8) \.minecraft\resourcepacks\
 9) drag n drop "BreastCraft Master" into there
 10) have fun!! (for the 3 people who use this :p)
+
+# Credits
+[zirppo](zirppo.carrd.co), [Bluestrike](bluestrike.carrd.co), BamIsMyName, [beomous](beomous.carrd.co), Mr. Green, lemonrice, Apperdog, Fasttastic, [6thDemon](6thdemon.carrd.co), Ronnie
