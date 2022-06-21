@@ -17,4 +17,4 @@ feel free to use it too... if you wish.
 10) have fun!! (for the 3 people who use this :p)
 
 # Credits
-[zirppo](zirppo.carrd.co), [Bluestrike](bluestrike.carrd.co), BamIsMyName, [beomous](beomous.carrd.co), Mr. Green, lemonrice, Apperdog, Fasttastic, [6thDemon](6thdemon.carrd.co), Ronnie
+[zirppo](https://zirppo.carrd.co), [Bluestrike](https://bluestrike.carrd.co), BamIsMyName, [beomous](https://beomous.carrd.co), Mr. Green, lemonrice, Apperdog, Fasttastic, [6thDemon](https://6thdemon.carrd.co), Ronnie
