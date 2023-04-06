@@ -23,4 +23,4 @@ feel free to use it too... if you wish.
 
 
 # Credits
-[zirppo](https://zirppo.carrd.co), [Bluestrike](https://bluestrike.carrd.co), BamIsMyName, [beomous](https://beomous.carrd.co), Mr. Green, lemonrice, Apperdog, Fasttastic, [6thDemon](https://6thdemon.carrd.co), Ronnie
+zirppo, Bluestrike, BamIsMyName, beomous
