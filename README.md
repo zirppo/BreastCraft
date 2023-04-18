@@ -8,7 +8,7 @@ feel free to use it too... if you wish.
 1) big green code button
 2) download zip
 3) open the installed zip
-4) make "assets", "pack.mcmeta", and "pack.png" into their own zip. ensure to **NOT** keep README.md.
+4) make "assets", "pack.mcmeta", and "pack.png" into their own zip.
 5) name said zip to whatever. for reference sake, "BreastCraft Master"
 6) windows+r
 7) %appdata%
