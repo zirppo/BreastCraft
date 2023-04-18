@@ -1,0 +1,87 @@
+{
+  "ambient.cave": {
+    "sounds": [
+     { "name":   "ambient/cave/cave2", "weight": 70, "stream": true, "volume": 6 },
+     { "name":   "ambient/cave/cave3", "weight": 70, "stream": true, "volume": 6 },
+     { "name":   "ambient/cave/cave5", "weight": 70, "stream": true, "volume": 6 },
+     { "name":   "ambient/cave/cave6", "weight": 70, "stream": true, "volume": 6 },
+     { "name":   "ambient/cave/cave7", "weight": 70, "stream": true, "volume": 6 }
+    ]
+  },
+	
+	
+"block.grass.step": {
+    "sounds": [
+	  
+      { "name": "ambient/grassambient/raven1", "weight": 1, "stream": true, "volume": 10 },
+		{ "name": "ambient/grassambient/raven2", "weight": 1, "stream": true, "volume": 10 },
+		
+		{ "name": "ambient/grassambient/wind1", "weight": 1, "stream": true, "volume": 6 },
+		{ "name": "ambient/grassambient/wind2", "weight": 80, "stream": true, "volume": 6 },
+		{ "name": "ambient/grassambient/wind3", "weight": 1, "stream": true, "volume": 6 },
+		{ "name": "ambient/grassambient/wind4", "weight": 1, "stream": true, "volume": 6 },
+		{ "name": "ambient/grassambient/wind5", "weight": 1, "stream": true, "volume": 3 },
+		{ "name": "ambient/grassambient/wind6", "weight": 60, "stream": true, "volume": 6 },
+ 
+      { "name": "ambient/grassambient/wind2", "weight": 10, "stream": true, "volume": 5, "attenuation_distance": 64 },
+      { "name": "ambient/grassambient/wind3", "weight": 10, "stream": true, "volume": 5, "attenuation_distance": 64 },
+      { "name": "ambient/grassambient/wind4", "weight": 10, "stream": true, "volume": 5, "attenuation_distance": 64 },
+      { "name": "ambient/grassambient/longwind", "weight": 10, "stream": true, "volume": 6 },
+	  
+      { "name": "ambient/grassambient/bird1", "weight": 2, "stream": true, "volume": 3, "attenuation_distance": 64 },
+      { "name": "ambient/grassambient/bird2", "weight": 2, "stream": true, "volume": 3, "attenuation_distance": 64 },
+      { "name": "ambient/grassambient/bird3", "weight": 2, "stream": true, "volume": 3, "attenuation_distance": 64 }
+    ]
+  },
+  
+  "block.sand.step": {
+    "sounds": [
+      { "name": "ambient/grassambient/wind2", "weight": 1, "stream": true, "volume": 6 },
+      { "name": "ambient/grassambient/wind6", "weight": 50, "stream": true, "volume": 6 },
+      { "name": "ambient/grassambient/longwind", "weight": 10, "stream": true, "volume": 6 }
+    ]
+  },
+  
+   "block.snow.step": {
+    "sounds": [
+      { "name": "ambient/grassambient/wind2", "weight": 50, "stream": true, "volume": 6 },
+      { "name": "ambient/grassambient/wind6", "weight": 50, "stream": true, "volume": 6 },
+      { "name": "ambient/grassambient/raven1", "weight": 1, "stream": true, "volume": 10 },
+	  { "name": "ambient/grassambient/raven2", "weight": 1, "stream": true, "volume": 10 },
+	  { "name": "ambient/grassambient/longwind", "weight": 10, "stream": true, "volume": 6 }
+      
+    ]
+  },
+  
+  
+   "entity.bat.ambient": {
+    "sounds": [
+	{ "name":   "ambient/cave/cave1", "weight": 70, "stream": true, "volume": 10 },
+	{ "name":   "ambient/cave/cave4", "weight": 70, "stream": true, "volume": 10 }
+		]
+	  },
+	  
+	    "music.game": {
+    "sounds": [
+      {
+        "name": "music/game/questions", "weight": 99,
+        "stream": true
+      },
+      {
+        "name": "music/game/tinker", "weight": 99,
+        "stream": true
+      },
+       {
+        "name": "music/game/the_shack_in_the_rain", "weight": 99,
+        "stream": true
+      },
+      {
+        "name": "music/game/amethyst", "weight": 99,
+        "stream": true
+      }
+    ]
+  }
+	  
+	  
+	  
+}
