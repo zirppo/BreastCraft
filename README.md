@@ -1,3 +1,6 @@
+# -----------------------------------------------
+# THIS VERSION IS NO LONGER BEING UPDATED
+# -----------------------------------------------
 # BreastCraft
 a java resource pack :)
 
